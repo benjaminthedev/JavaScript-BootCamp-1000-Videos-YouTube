@@ -1,6 +1,5 @@
 ![JavaScript BootCamp 1000 Videos](https://github.com/benjaminthedev/JavaScript-BootCamp-1000-Videos-YouTube/blob/master/JavaScript-BootCamp.png)
 
-#Do you want to be come a JavaScript developer? Well, you're in luck!
 ## Welcome to The JavaScript BootCamp 1000 Videos On YouTube
 
 This is a series of many videos helping other developers learn and understand the world of JavaScript.
