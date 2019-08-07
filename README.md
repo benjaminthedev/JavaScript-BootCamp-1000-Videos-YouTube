@@ -20,7 +20,7 @@ Come say :wave: to me on [Twitter](https://twitter.com/benjaminthedev).
 #Lesson List
 
 1. Project Set Up & Variables - [here](https://youtu.be/A2wgdCXZ62w)
-2. Coming soon!
+2. More On Variables 
 
 
 
